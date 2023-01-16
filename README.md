@@ -14,8 +14,4 @@
     \|__|\|__| \|__|\|__| \|__| \|__| \|_______| \|__|\|__| \|_______| \|_______| 
     
 ```
-![cube](cub.gif)![cube](cub.gif)
-
-![bio](bio.png)
-
-[here is a website all about me](http:brianrandall.dev)
+[brianrandall.dev](http:brianrandall.dev)
